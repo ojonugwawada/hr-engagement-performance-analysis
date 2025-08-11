@@ -2,16 +2,16 @@
 
 This project explores key human resource (HR) metrics such as salary, engagement, satisfaction, tenure, and performance using advanced statistical analysis and visualization techniques. The analysis is built upon a real-world HR dataset and applies concepts of descriptive statistics, confidence intervals, and hypothesis testing.
 
-## 🎯 Project Objective
+## Project Objective
 To investigate employee performance, compensation equity, and engagement trends using statistical methods that drive workforce policy and decision-making.
 
-## 🌱 AgriTech Context
+## AgriTech Context
 In rural and agritech startups where talent is scarce and retention is crucial, workforce analytics provides a data-driven basis for:
 - Aligning compensation with contribution
 - Supporting high-performing employees
 - Preventing role burnout and unfair workloads
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Statistical Analysis (T-tests, ANOVA, Confidence Intervals)
 - Jupyter Notebook
@@ -33,3 +33,6 @@ In rural and agritech startups where talent is scarce and retention is crucial, 
 
 ## 🤝 Contribution
 This project provides actionable data for HR planning in modern organizations, especially those scaling rural or distributed teams as part of inclusive AgriTech models.
+
+## Dashboard
+Under Way
